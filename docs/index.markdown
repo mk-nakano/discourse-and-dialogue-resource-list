@@ -1,9 +1,11 @@
 ---
 layout: default
-title: SIGdial Resources
+title: Resources for Discourse and Dialogue Research
 description: 
 ---
-# SIGdial Resources
+# Resources for Discourse and Dialogue Research
+
+## Dialogue Corpora
 
 | Name | Lang. | Modalities | Data Type | Task/Domain | Participants | Size | Ave. # of turns. | Brief Description | Paper Link |
 |:---|:---|:---|:---:|:---|:---|:---|:---|:---|:---|
