@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Resources for Discourse and Dialogue Research
+title: Dialogue Corpora
 description: 
 ---
 # Dialogue Corpora
