@@ -3,9 +3,7 @@ layout: default
 title: Resources for Discourse and Dialogue Research
 description: 
 ---
-# Resources for Discourse and Dialogue Research
-
-## Dialogue Corpora
+# Dialogue Corpora
 
 | Name | Lang. | Modalities | Data Type | Task/Domain | Participants | Size | Ave. # of turns. | Brief Description | Paper Link |
 |:---|:---|:---|:---:|:---|:---|:---|:---|:---|:---|
