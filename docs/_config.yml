@@ -29,7 +29,7 @@ url: "https://mk-nakano.github.io" # the base hostname & protocol for your site,
 
 # Build settings
 #theme: minima
-theme: "minimal-mistakes-jekyll
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
