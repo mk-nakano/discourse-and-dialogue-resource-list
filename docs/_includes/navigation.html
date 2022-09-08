@@ -1,14 +1,7 @@
 <!-- navigation.html contents -->
 
-{% assign links = site.data.menu %}
-
 <ul>
-{% for link in links %}
-  <li>
-    <a href="{{ link.url }}">
-      {{ link.name }}
-    </a>
-  </li>
+{% for item in site.data.menu %}
+<li><a href="{{item.url}}" alt="{{item.title}}">{{item.title}}</a></li>
 {% endfor %}
 </ul>
-
