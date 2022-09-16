@@ -17,3 +17,6 @@ description:
 
 
 
+##### Acknowledgement
+
+This overview has been adapted from [**A Survey of Available Corpora for Building Data-Driven Dialogue Systems**](https://arxiv.org/abs/1512.05742), with permission; see the [**survey website**](https://breakend.github.io/DialogDatasets/) for reference and please cite the paper if useful.
